@@ -70,7 +70,7 @@ Web corporativa de una empresa de software para gestión de residuos. SPA fronte
 - **Email:** [hgalianareal@gmail.com](mailto:hgalianareal@gmail.com)
 - **LinkedIn:** [linkedin.com/in/hugo-galiana-real](https://www.linkedin.com/in/hugo-galiana-real-8a1831329/)
 - **Portfolio:** [hugogaliana-dev.vercel.app](https://hugogaliana-dev.vercel.app)
-- **Ubicación:** Valencia, España · Disponible para incorporación inmediata
+- **Ubicación:** Valencia, España
 
 ---
 
