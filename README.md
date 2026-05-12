@@ -61,8 +61,8 @@ Aplicación web full-stack que permite a los clientes de restaurantes buffet rea
 Portfolio personal construido desde cero con Angular 21 y Tailwind CSS v4. Bilingüe ES/EN, tema claro/oscuro, sistema de animaciones propio (reveal directive con stagger, parallax, cursor follower, micro-interacciones).
 **Stack:** Angular 21 · Tailwind v4 · TypeScript · Vercel
 
-### 🏢 [Aperture Technologies](https://aperturetechnologies.es/) · _código en repo privado de empresa_
-Web corporativa de una empresa de software para gestión de residuos. SPA frontend construida durante mis prácticas en Metalls del Camp. Formulario de contacto integrado con EmailJS. En producción.
+### 🏢 [Aperture Technologies](https://aperturetechnologies.es/) · _código en repositorio privado de empresa_
+Web corporativa de una empresa de software para gestión de residuos. SPA frontend construida durante mis prácticas en Metalls del Camp. Formulario de contacto integrado con EmailJS. 
 **Stack:** React · Vite · Tailwind · EmailJS
 
 ## 📫 Contacto
