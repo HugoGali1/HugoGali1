@@ -57,7 +57,7 @@ Hoy enfoco mi tiempo en construir aplicaciones reales con **Angular, NestJS y Ty
 Aplicación web full-stack que permite a los clientes de restaurantes buffet realizar pedidos escaneando un QR en la mesa. Incluye panel para personal, gestión de comandas en tiempo real, pagos integrados con Stripe y panel de administración. Mi Trabajo Final de Grado (DAM).
 **Stack:** Angular · NestJS · PostgreSQL · TypeORM · Socket.io · Stripe · Ionic
 
-### 🌐 [Portfolio personal](https://github.com/HugoGali1/portfolio-angular) · [Ver en producción →](https://hugogaliana-dev.vercel.app)
+### 🌐 [Portfolio personal](https://github.com/HugoGali1/portfolio-angular) · [Ver en producción →](https://hugogaliana.com/)
 Portfolio personal construido desde cero con Angular 21 y Tailwind CSS v4. Bilingüe ES/EN, tema claro/oscuro, sistema de animaciones propio (reveal directive con stagger, parallax, cursor follower, micro-interacciones).
 **Stack:** Angular 21 · Tailwind v4 · TypeScript · Vercel
 
