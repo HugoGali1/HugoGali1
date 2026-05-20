@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="[https://hugogaliana.com/">🌐 Portfolio</a> ·
-  <a href="[https://www.linkedin.com/in/hugo-galiana-real-8a1831329/">💼 LinkedIn</a> ·
-  <a href="mailto:hgalianareal@gmail.com">✉️ Email</a>
+<a href="https://hugogaliana.com/">🌐 Portfolio</a> ·
+<a href="[https://www.linkedin.com/in/hugo-galiana-real-8a1831329/">💼 LinkedIn</a> ·
+<a href="mailto:hgalianareal@gmail.com">✉️ Email</a>
 </p>
 
 ---
