@@ -57,9 +57,9 @@ Hoy enfoco mi tiempo en construir aplicaciones reales con **Angular, NestJS y Ty
 Aplicación web full-stack que permite a los clientes de restaurantes buffet realizar pedidos escaneando un QR en la mesa. Incluye panel para personal, gestión de comandas en tiempo real, pagos integrados con Stripe y panel de administración. Mi Trabajo Final de Grado (DAM).
 **Stack:** Angular · NestJS · PostgreSQL · TypeORM · Socket.io · Stripe · Ionic
 
-### 🌐 [Portfolio personal](https://github.com/HugoGali1/portfolio-angular) · [Ver en producción →](https://hugogaliana.com/)
-Portfolio personal construido desde cero con Angular 21 y Tailwind CSS v4. Bilingüe ES/EN, tema claro/oscuro, sistema de animaciones propio (reveal directive con stagger, parallax, cursor follower, micro-interacciones).
-**Stack:** Angular 21 · Tailwind v4 · TypeScript · Vercel
+### 🌐 [Portfolio personal](https://github.com/HugoGali1/hugogaliana-web) · [Ver en producción →](https://hugogaliana.com/)
+Portfolio construido desde cero en HTML, CSS y JavaScript, sin framework. Hero dirigido por el scroll: compositor de 48 fotogramas sobre canvas en móvil y scrubbing de vídeo con cruce entre fotogramas en escritorio. Formulario de contacto con degradación elegante a mailto, política de privacidad y datos estructurados.
+**Stack:** HTML · CSS · JavaScript (vanilla) · Vercel
 
 ### 🏢 [Aperture Technologies](https://aperturetechnologies.es/) · _código en repositorio privado de empresa_
 Web corporativa de una empresa de software para gestión de residuos. SPA frontend construida durante mis prácticas en Metalls del Camp. Formulario de contacto integrado con EmailJS. 
