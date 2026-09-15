@@ -15,11 +15,15 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy una persona proactiva y en continua formación, con interés en el desarrollo web moderno y las arquitecturas full-stack. Recién graduado del **Grado Superior DAM** en el Centro de FP Progresa (Valencia), tras el Grado Medio SMR en IES El Grao.
+Soy desarrollador full-stack en Valencia, especializado en el desarrollo de aplicaciones web y soluciones digitales.
 
-Mi primera experiencia profesional como desarrollador fueron las **prácticas en Metalls del Camp**, donde construí la web corporativa de **Aperture Technologies** con React + Vite + Tailwind y desarrollé software interno en C#. Antes, durante 2024–2025, trabajé como **Técnico de Soporte Informático en Las Provincias**, lo que me dio una base sólida sobre cómo funcionan los sistemas en producción.
+He completado el Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) en el Centro de FP Progresa (Valencia), después de cursar el Grado Medio en Sistemas Microinformáticos y Redes (SMR) en IES El Grao.
 
-Hoy enfoco mi tiempo en construir aplicaciones reales con **Angular, NestJS y TypeScript**, aprendiendo algo nuevo cada día.
+Mi primera experiencia profesional como desarrollador fue en Metalls del Camp, donde desarrollé la web corporativa de Aperture Technologies utilizando React, Vite y Tailwind, además de participar en el desarrollo de software interno con C#.
+
+Anteriormente trabajé como Técnico de Soporte Informático en Las Provincias, adquiriendo experiencia en soporte de sistemas, administración de usuarios, resolución de incidencias y entornos de producción.
+
+Actualmente desarrollo proyectos con tecnologías como Angular, NestJS, TypeScript, Spring Boot, MySQL y MongoDB, con especial interés en arquitecturas full-stack, APIs REST y aplicaciones web modernas.
 
 ## 🛠 Stack
 
